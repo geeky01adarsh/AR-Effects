@@ -12,3 +12,5 @@ Effect Link:- [Facebook](https://www.facebook.com/fbcameraeffects/tryit/68999375
 Demo Video:- [Merry Christmas effect](/Videos/merry-christmas.mp4 "Demo Video")
 
 Effect Link:-  [Instagram](https://www.instagram.com/ar/3243420115982346/ "Instagram Filter")
+
+[Update:] This effects are no longer supported by Meta 
